@@ -1,6 +1,5 @@
 
 # My-First-Project
-bkjfhirhhelkgeoigo
-f.,nekjhfiewhfewlfjew
 
+i am head of this repo
 change from new-branch
